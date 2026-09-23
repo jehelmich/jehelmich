@@ -1,6 +1,6 @@
 ### Jan Helmich
 
-I'm a research and software engineer. I build AI systems and the evaluations that
+I'm a researcher and software engineer. I build AI systems and the evaluations that
 show whether they work, mostly around better retrieval for LLMs and the precision
 limits of computer vision.
 
